@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/addFriends/static/css/main.08ca9f97.chunk.css",
+    "main.js": "/addFriends/static/js/main.7292893b.chunk.js",
+    "main.js.map": "/addFriends/static/js/main.7292893b.chunk.js.map",
+    "runtime-main.js": "/addFriends/static/js/runtime-main.844783cf.js",
+    "runtime-main.js.map": "/addFriends/static/js/runtime-main.844783cf.js.map",
+    "static/js/2.c743e093.chunk.js": "/addFriends/static/js/2.c743e093.chunk.js",
+    "static/js/2.c743e093.chunk.js.map": "/addFriends/static/js/2.c743e093.chunk.js.map",
+    "static/js/3.f591acd1.chunk.js": "/addFriends/static/js/3.f591acd1.chunk.js",
+    "static/js/3.f591acd1.chunk.js.map": "/addFriends/static/js/3.f591acd1.chunk.js.map",
+    "index.html": "/addFriends/index.html",
+    "static/css/main.08ca9f97.chunk.css.map": "/addFriends/static/css/main.08ca9f97.chunk.css.map",
+    "static/js/2.c743e093.chunk.js.LICENSE.txt": "/addFriends/static/js/2.c743e093.chunk.js.LICENSE.txt",
+    "static/media/favorite-fill.2197fa7d.png": "/addFriends/static/media/favorite-fill.2197fa7d.png",
+    "static/media/favorite.92d8aeab.png": "/addFriends/static/media/favorite.92d8aeab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.844783cf.js",
+    "static/js/2.c743e093.chunk.js",
+    "static/css/main.08ca9f97.chunk.css",
+    "static/js/main.7292893b.chunk.js"
+  ]
+}
